@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_menu">
+    <ImageView
+        android:id="@+id/eyelids_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/eyelids_menu"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="right">
+        <ImageView
+            android:id="@+id/spaceship_menu"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:src="@drawable/spaceship_menu"/>
+     </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <Button
+            android:id="@+id/button_start_game"
+            android:layout_width="200dp"
+            android:layout_height="58dp"
+            android:text="@string/start_game"
+            android:layout_gravity="center"
+            android:onClick="startGame"
+            />
+
+        <Button
+            android:id="@+id/button_credits"
+            android:layout_width="200dp"
+            android:layout_height="58dp"
+            android:text="@string/credits"
+            android:layout_gravity="center"
+            android:onClick="credits"
+            />
+        <Button
+            android:id="@+id/button_help"
+            android:layout_width="200dp"
+            android:layout_height="58dp"
+            android:text="@string/help"
+            android:layout_gravity="center"
+            android:onClick="help"
+            />
+    </LinearLayout>
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="first">ZzzzZzz...</string>
+    <string name="second">Acordaaa, Firefly!</string>
+    <string name="third">AAaaAAhhh!!!</string>
+    <string name="fourth">Preciso de sua ajuda urgente!</string>
+    <string name="fifth">O que e tao urgente assim?</string>
+    <string name="sixth">Olhe para cima e voce vai entender</string>
+    <string name="seventh">Nossa! Mas eles vieram em paz?</string>
+    <string name="eighth">UUUugh!! Acho que nao</string>
+    <string name="ninth">Eles estao atacandoo..</string>
+    <string name="tenth">Voce precisa descobrir como dete-los! Rapido!</string>
+    <string name="final_one">Logo apos a derrota da grande maioria dos robos...</string>
+    <string name="final_two">...a situacao ficou mais controlada.</string>
+    <string name="final_three">mas ate quando? ...</string>
+    <string name="start_game">Iniciar jogo</string>
+    <string name="credits">Créditos</string>
+    <string name="inside_robot">Estou dentro de um dos robos</string>
+    <string name="you_lose">Perdeu!</string>
+    <string name="stage">"Fase "</string>
+    <string name="robot_battery">Bateria robo</string>
+    <string name="time">Tempo</string>
+    <string name="score">Pontos</string>
+    <string name="found_circuit">Encontrei tipo um circuito...</string>
+    <string name="need_todo_something">Preciso fazer algo para tentar dete-lo...</string>
+    <string name="stage_select">Selecione a fase:</string>
+    <string name="skip">Pular</string>
+    <string name="help">Ajuda</string>
+</resources>

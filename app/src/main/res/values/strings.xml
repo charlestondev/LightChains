@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">Firefly - Light Chains</string>
+
+    <string name="first">ZzzzZzz...</string>
+    <string name="second">Wake uupp, FIrefly!</string>
+    <string name="third">AAaaAAhhh!!!</string>
+    <string name="fourth">I need your help immediately!</string>
+    <string name="fifth">What is so immediate?</string>
+    <string name="sixth">Look at the sky and you will understand</string>
+    <string name="seventh">Gosssh! But come they in peace?</string>
+    <string name="eighth">UUUugh!! I dont think so!</string>
+    <string name="ninth">They are attacking...</string>
+    <string name="tenth">You need to learn how to stop them! hurry up!</string>
+    <string name="final_one">Soon after defeat the robots...</string>
+    <string name="final_two">...the situation become controlled.</string>
+    <string name="final_three">but how long? ...</string>
+    <!--string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string-->
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3687610297310815/9273363684</string>
+    <string name="start_game">Start game</string>
+    <string name="credits">Credits</string>
+    <string name="inside_robot">I am inside one of them</string>
+    <string name="you_lose">You lose!</string>
+    <string name="stage">"Stage "</string>
+    <string name="robot_battery">Robot battery</string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+    <string name="found_circuit">I found kind of a circuit...</string>
+    <string name="need_todo_something">I need to do something to stop it...</string>
+    <string name="stage_select">Stage select</string>
+    <string name="skip">Skip</string>
+    <string name="help">Help</string>
+
+</resources>
